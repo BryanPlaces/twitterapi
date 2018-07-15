@@ -1,0 +1,28 @@
+[
+    {
+        "username":"bryanedu",
+        "name":"Bryan",
+        "email":"bryan@gmail.com",
+        "tweets":[
+            {
+                "id":1531348425732,
+                "text":"aasdaks ajsdakjsd akjsda",
+                "owner":"bryanedu",
+                "createAd":1531348425732
+            }
+        ]
+    },
+    {
+        "username":"luisma",
+        "name":"Luis",
+        "email":"luis@gmail.com",
+        "tweets":[
+            {
+                "id":1531235191574,
+                "text":"eo eo ah klks aass",
+                "owner":"luisma",
+                "createAd":1531235191574
+            }
+        ]
+    }
+]
